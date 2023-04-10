@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataBaseOgrenciModelStoreContainer" CdmEntityContainer="DataBaseOgrenciEntities">
+    <EntitySetMapping Name="TBLOgrenci">
+      <EntityTypeMapping TypeName="DataBaseOgrenciModel.TBLOgrenci">
+        <MappingFragment StoreEntitySet="TBLOgrenci">
+          <ScalarProperty Name="OgrenciId" ColumnName="OgrenciId" />
+          <ScalarProperty Name="OgrenciAdı" ColumnName="OgrenciAdı" />
+          <ScalarProperty Name="OgrenciNo" ColumnName="OgrenciNo" />
+          <ScalarProperty Name="Sehir" ColumnName="Sehir" />
+          <ScalarProperty Name="Numara" ColumnName="Numara" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,16 @@
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\bin\Debug\Ogrencıler.exe.config
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\bin\Debug\Ogrencıler.exe
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\bin\Debug\Ogrencıler.pdb
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\bin\Debug\EntityFramework.dll
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\bin\Debug\EntityFramework.xml
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.csproj.AssemblyReference.cache
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.csproj.SuggestedBindingRedirects.cache
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.Form1.resources
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.Properties.Resources.resources
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.csproj.GenerateResource.cache
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.csproj.CoreCompileInputs.cache
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.csproj.CopyComplete
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.exe
+C:\Users\DENİZ\OneDrive\Masaüstü\Ogrencıler\Ogrencıler\obj\Debug\Ogrencıler.pdb
